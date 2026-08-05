@@ -1,4 +1,4 @@
-Based on the document "PFinal_Robotica.pdf", here is a brief summary of the project:
+
 
 The project presents the design, mathematical modeling, and embedded implementation of a miniature, indoor VTOL (Vertical Takeoff and Landing) robotic blimp. The vehicle operates under quasi-neutral buoyancy using a 50-inch helium-filled Mylar balloon, which provides the baseline lift.
 
